@@ -13,9 +13,9 @@
 [![gitter](https://badges.gitter.im/workoss/community.svg)](https://gitter.im/workoss/boot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&layout=compact&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=[]&layout=compact&card_width=400)
 
-![stat](https://github-readme-stats.vercel.app/api?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=[]&card_width=300)
+![stat](https://github-readme-stats.vercel.app/api?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=[]&card_width=400)
 
 ### 项目
 
