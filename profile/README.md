@@ -23,7 +23,7 @@
 
 
 ### 访问
-![counter](https://profile-counter.glitch.me/workoss/count.svg[link="https://github.com/workoss"))
+[![counter](https://profile-counter.glitch.me/workoss/count.svg)](https://github.com/workoss)
 
 
 
