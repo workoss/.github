@@ -20,7 +20,7 @@
 ### 项目
 
 [![boot](https://github-readme-stats.vercel.app/api/pin/?username=ossworker&repo=boot&card_width=300)](https://github.com/workoss/boot)
-[![rust-maven](https://github-readme-stats.vercel.app/api/pin/?username=ossworker&repo=boot&card_width=300)](https://github.com/workoss/rust-maven)
+[![rust-maven](https://github-readme-stats.vercel.app/api/pin/?username=ossworker&repo=rust-maven&card_width=300)](https://github.com/workoss/rust-maven)
 
 
 ### 访问
