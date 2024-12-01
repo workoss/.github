@@ -13,15 +13,14 @@
 [![gitter](https://badges.gitter.im/workoss/community.svg)](https://gitter.im/workoss/boot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=[]&layout=compact&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=[]&layout=compact&card_width=300)
 
-![stat](https://github-readme-stats.vercel.app/api?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&card_width=400)
+![stat](https://github-readme-stats.vercel.app/api?username=ossworker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&card_width=300)
 
 ### 项目
 
 [![boot](https://github-readme-stats.vercel.app/api/pin/?username=workoss&repo=boot&card_width=300)](https://github.com/workoss/boot)
 [![rust-maven](https://github-readme-stats.vercel.app/api/pin/?username=workoss&repo=rust-maven&card_width=300)](https://github.com/workoss/rust-maven)
-[![wasm-extension](https://github-readme-stats.vercel.app/api/pin/?username=workoss&repo=wasm-extension&card_width=300)](https://github.com/workoss/wasm-extension)
 
 ### 访问
 [![counter](https://profile-counter.glitch.me/workoss/count.svg)](https://github.com/workoss)
