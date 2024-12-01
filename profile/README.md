@@ -21,7 +21,7 @@
 
 [![boot](https://github-readme-stats.vercel.app/api/pin/?username=workoss&repo=boot&card_width=300)](https://github.com/workoss/boot)
 [![rust-maven](https://github-readme-stats.vercel.app/api/pin/?username=workoss&repo=rust-maven&card_width=300)](https://github.com/workoss/rust-maven)
-
+[![wasm-extension](https://github-readme-stats.vercel.app/api/pin/?username=workoss&repo=wasm-extension&card_width=300)](https://github.com/workoss/wasm-extension)
 
 ### 访问
 [![counter](https://profile-counter.glitch.me/workoss/count.svg)](https://github.com/workoss)
